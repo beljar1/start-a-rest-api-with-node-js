@@ -4,5 +4,18 @@
   "createdAt": "2026-11-24T20:47:33.534Z",
   "filename": "e8480871-efd5-451c-8d36-4b498c18f12e.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "48de1dd7-7d1b-4565-9bc3-c8789a970275",
+      "role": "user",
+      "content": "হাউ টু কানেক্ট জিমেইল একাউন্ট এন্ড অটো রিপ্লে ইওর মেল",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-24T20:48:24.969Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
